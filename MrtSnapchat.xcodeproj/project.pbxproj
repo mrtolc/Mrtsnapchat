@@ -12,6 +12,7 @@
 		D1BF06FE1E1FB15700CADFD3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D1BF06FC1E1FB15700CADFD3 /* Main.storyboard */; };
 		D1BF07001E1FB15700CADFD3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D1BF06FF1E1FB15700CADFD3 /* Assets.xcassets */; };
 		D1BF07031E1FB15700CADFD3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D1BF07011E1FB15700CADFD3 /* LaunchScreen.storyboard */; };
+		D1BF070B1E1FB1AE00CADFD3 /* GoogleService-Info-2.plist in Resources */ = {isa = PBXBuildFile; fileRef = D1BF070A1E1FB1AE00CADFD3 /* GoogleService-Info-2.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		D1BF06FF1E1FB15700CADFD3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D1BF07021E1FB15700CADFD3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D1BF07041E1FB15700CADFD3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D1BF070A1E1FB1AE00CADFD3 /* GoogleService-Info-2.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info-2.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				D1BF06FC1E1FB15700CADFD3 /* Main.storyboard */,
 				D1BF06FF1E1FB15700CADFD3 /* Assets.xcassets */,
 				D1BF07011E1FB15700CADFD3 /* LaunchScreen.storyboard */,
+				D1BF070A1E1FB1AE00CADFD3 /* GoogleService-Info-2.plist */,
 				D1BF07041E1FB15700CADFD3 /* Info.plist */,
 			);
 			path = MrtSnapchat;
@@ -126,6 +129,7 @@
 			files = (
 				D1BF07031E1FB15700CADFD3 /* LaunchScreen.storyboard in Resources */,
 				D1BF07001E1FB15700CADFD3 /* Assets.xcassets in Resources */,
+				D1BF070B1E1FB1AE00CADFD3 /* GoogleService-Info-2.plist in Resources */,
 				D1BF06FE1E1FB15700CADFD3 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
